@@ -2,7 +2,7 @@
 title: "French Mother Sauces"
 date: 2022-04-07T12:56:48+04:30
 weight: 1
-draft: true
+draft: false
 ---
 There are 5 main french sauces: Espagnole, Velouté, Tomato, Béchamel, Hollandaise (Mayonnaise)\
 Everything else is considered a derivative (daugther sauce).\
