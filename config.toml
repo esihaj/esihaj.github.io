@@ -1,3 +1,7 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Ehsan Hajyasini's Learning Journal"
+theme = "change-log"
+
+[params]
+customCSS = ["css/custom-tags.css"]
