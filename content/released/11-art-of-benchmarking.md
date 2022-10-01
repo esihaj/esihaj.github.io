@@ -1,7 +1,7 @@
 ---
 title: "Faster Objects and Arrays"
 date: 2022-09-30T22:43:04-07:00
-weight: 10
+weight: 11
 draft: false
 ---
 "[Aleksey Shipilёv](https://shipilev.net) is working on Java performance for 10+ years. Today he is employed by Red Hat, where he does OpenJDK development and performance work."
