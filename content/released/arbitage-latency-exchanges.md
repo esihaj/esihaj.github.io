@@ -7,4 +7,4 @@ draft: false
 Every microsecond is important in exchanges. So they are willing to spend millions of dollors on minimizing it.
 [The $300 Million Cable Between New York and Chicago](https://youtu.be/CjMDBm8r2S8)
 
-- {{< exchange >}} {{< latency >}}
+- {{< tag exchange >}} {{< tag latency >}}
