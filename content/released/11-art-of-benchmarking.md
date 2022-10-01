@@ -1,5 +1,5 @@
 ---
-title: "Faster Objects and Arrays"
+title: "Art of Benchmarking (in Java)"
 date: 2022-09-30T22:43:04-07:00
 weight: 11
 draft: false
