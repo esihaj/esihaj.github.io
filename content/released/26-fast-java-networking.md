@@ -1,7 +1,7 @@
 ---
 title: "Fast java Serialization and Networking"
 date: 2022-10-01T22:43:43-07:00
-weight: 25
+weight: 26
 draft: false
 ---
 Serialization can be a big deal in Java (or any other language for that matter). Some libraries can take  10s of microseconds while others can be as fast as 20 nanoseconds.\
