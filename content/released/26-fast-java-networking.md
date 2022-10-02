@@ -8,6 +8,6 @@ Serialization can be a big deal in Java (or any other language for that matter).
 [Simple Binary Encoding (SBE)](https://github.com/real-logic/simple-binary-encoding) is used together with [Aeron](https://github.com/real-logic/aeron) and is crazy fast. \
 [Fast Binary Encoding (FBE)](https://github.com/chronoxor/FastBinaryEncoding)
 
-Other than Aeron [KryoNet](https://github.com/EsotericSoftware/kryonet) is a Java library that provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO. KryoNet uses the [Kryo serialization library](https://github.com/EsotericSoftware/kryo).
+Other than Aeron, [KryoNet](https://github.com/EsotericSoftware/kryonet) is a Java library that provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO. KryoNet uses the [Kryo serialization library](https://github.com/EsotericSoftware/kryo).
 
 - {{< tag latency >}} {{< tag networking >}} {{< tag serialization >}}
