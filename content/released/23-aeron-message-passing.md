@@ -8,6 +8,7 @@ draft: false
 A detailed overview could be found [here](http://highscalability.com/blog/2014/11/17/aeron-do-we-really-need-another-messaging-system.html) which includes a very nice writeup of the lessons learned.
 
 Aeron is commonly used in the trading industry.\
+
 Talks:
 [Aeron on InfoQ](https://www.infoq.com/presentations/aeron/)
 [Aeron Clusters on InfoQ](https://www.infoq.com/presentations/aeron-cluster-raft/)
