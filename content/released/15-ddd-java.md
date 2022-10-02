@@ -9,7 +9,6 @@ A great example of using value objects: \
 Value Objects in DDD can be implemented using any of these libraries in java: \
 [Google Auto](https://github.com/google/auto/blob/master/value/userguide/index.md) \
 [Project Lombok](https://projectlombok.org)
-
 A Complete DDD Enterprise Application Example in Java. It also includes some Hexagonal architecture. \
 [DDD by Example](https://github.com/ddd-by-examples/factory)
 
